@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(251, 214, 253);
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-style: bold;
+  font-size: 50px;
+  color: rgb(71, 71, 163);
+}
+
+h2 {
+  font-style: bold;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 90px;
+}
+
+main {
+  background-color: rgb(95, 95, 204);
+  color: white;
+  text-align: left;
+  padding: 50px;
+  border-radius: 5px;
+  width: 600px;
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+  padding-bottom: 20px;
+}
+
+.main-point {
+  color: yellow;
+  list-style-type: square;
+}
+
+span {
+  background-color: yellow;
+  color: black;
+}
+
+footer p {
+  color: rgba(82, 74, 74, 0.616);
+}
+
+a {
+    background-color: yellow;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    border: 15px solid yellow;
+}
